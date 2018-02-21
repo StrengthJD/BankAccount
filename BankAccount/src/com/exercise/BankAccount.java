@@ -73,7 +73,6 @@ public class BankAccount {
 	
 	private Object getHistory() {
 		return history;
-
 	}
 	
 	
